@@ -86,7 +86,7 @@ int main() {
         ll n; cin >> n;
 
 
-        ll a = getActualAnswer(n);
+        //ll a = getActualAnswer(n);
         ll e = getExpectedAnswer(n);
         
         cout << e << "\n";
